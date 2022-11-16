@@ -1,0 +1,3 @@
+ We can also split lines using file handling in Python.
+ This splits the variable when space is encountered.
+ You can also split using any characters as we wish. Here is the code:
