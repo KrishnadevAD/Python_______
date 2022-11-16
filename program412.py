@@ -1,0 +1,6 @@
+a=input('enter your first name   ')
+b=input('enter your last name ')
+c=input('enter your age')
+print('Hi '+ a +' '+ ' in 5 years your will be '+  str(int(c)+5))
+print('Hi  {} {}. In 5 years you will be  {}'.format(a,b,int(c)+5))
+print(f'Hi {a} {b}. in 5 years you will be {int(c)+5}')
